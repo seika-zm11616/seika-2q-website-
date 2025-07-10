@@ -1,15 +1,13 @@
 # seika-2q-website
 
-## あいうえ
+## 最初に
 
-- りんご
-- バナナ
-- みかん
+```
+npm install
+```
 
-### かきくけこ
+## 開発の始め方
 
----
-
-```javascript
-const abc = 'apple';
+```
+npm run dev
 ```
